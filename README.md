@@ -4,10 +4,10 @@
 - 👨‍💻 All of my projects are available at [here](https://www.haolyydev.com/)
   
 - 📄 Know about my experiences [here](https://github.com/lyquochao84/Hao-Ly-Resume/blob/main/Hao_Ly_Resume.pdf)
-  
-- 🌱 I’m open to **summer 2024 internship**
 
 - 📫 How to reach me **kevinly0609@gmail.com**
+
+- 🌱 I’m open to **summer 2024 internship**
 
 - 👯 I’m looking to collaborate with **anyone**
   
