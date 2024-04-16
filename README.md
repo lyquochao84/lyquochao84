@@ -102,9 +102,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyquochao84&label=Profile%20views&color=0e75b6&style=flat" alt="lyquochao84" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyquochao84&show_icons=true&locale=en&layout=compact" alt="lyquochao84" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyquochao84&show_icons=true&locale=en&layout=compact&theme=onedark" alt="lyquochao84" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyquochao84&show_icons=true&locale=en" alt="lyquochao84" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyquochao84&show_icons=true&locale=en&theme=onedark" alt="lyquochao84" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyquochao84&" alt="lyquochao84" /></p>
 
