@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hao Ly</h1>
-<h4 align="center">I'm a freelance web developer with a passion for coding and reading books. Currently, I'm diving into exciting projects and constantly learning new technologies. Let's collaborate on innovative web solutions! Ask me about web development, and fun fact: I can't resist a good cup of coffee while coding☕️</h4>
+<h4 align="center">I'm a freelance web developer with a passion for coding and reading books. Currently, I'm diving into exciting projects and constantly learning new technologies. Let's collaborate on innovative web solutions! Ask me about web development, and fun fact: I can't resist a good cup of coffee while coding ☕️</h4>
 
 - 👨‍💻 All of my projects are available at [here](https://www.haolyydev.com/)
   
@@ -13,7 +13,7 @@
   
 - 🤝 I’m looking to learn from **anyone**
 
-- ⚡ Fun fact **I'm currently working 3 jobs**
+- ⚡ Fun fact **I love reading books with a cup of coffee and a little jazz music**
 
 
 <h3 align="left">Connect with me:</h3>
