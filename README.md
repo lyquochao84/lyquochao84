@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kevinly0609@gmail.com**
 
-- 🌱 I’m open to **Fall 2024 internship**
+- 🌱 I’m open to **Full-Time role or SWE Intern/Co-op**
 
 - 👯 I’m looking to collaborate with **anyone**
   
