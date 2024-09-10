@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://www.haolyydev.com/)
   
-- 📄 Know about my experiences [here](https://github.com/lyquochao84/Hao-Ly-Resume/blob/main/Hao_Ly_Resume.pdf)
+- 📄 Know about my experiences [here](https://github.com/lyquochao84/Resume)
 
 - 📫 How to reach me **kevinly0609@gmail.com**
 
