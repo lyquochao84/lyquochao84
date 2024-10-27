@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hao Ly</h1>
+<h1 align="center">Hi 👋, I'm Kevin Ly</h1>
 <h4 align="center">I can't resist a good cup of coffee while coding ☕️</h4>
 
 - 👨‍💻 All of my projects are available at [here](https://www.haolyydev.com/)
